@@ -1,1 +1,3 @@
 ipconfigs/*
+__pycache__/
+.*.sw?
